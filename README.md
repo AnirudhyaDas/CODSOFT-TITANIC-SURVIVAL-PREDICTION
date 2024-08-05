@@ -1,9 +1,5 @@
 # CODSOFT-TITANIC-SURVIVAL-PREDICTION
 
-![titanic](https://github.com/user-attachments/assets/03589661-bd5d-4716-beee-b1ab1b6c4f1a)
-
-
-
 ## Description:
 
 The Titanic's sinking is a well-known historical event.
