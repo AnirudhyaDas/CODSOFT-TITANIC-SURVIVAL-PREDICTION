@@ -12,3 +12,8 @@ In this task, you will create a prediction model that answers the question, "Wha
 
 ## Acknowledgements:
 This dataset has been referred from Kaggle: [https://www.kaggle.com/c/titanic/data.](https://www.kaggle.com/datasets/yasserh/titanic-dataset)
+
+## Objective:
+- Understand the Dataset & cleanup (if required).
+- Build a strong classification model to predict whether the passenger survives or not.
+- Also fine-tune the hyperparameters & compare the evaluation metrics of various classification algorithms.
