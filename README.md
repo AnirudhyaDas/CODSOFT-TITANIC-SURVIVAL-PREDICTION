@@ -1,4 +1,5 @@
 # CODSOFT-TITANIC-SURVIVAL-PREDICTION
+![titanic](https://github.com/user-attachments/assets/6ac0462e-4c72-4170-9c52-4e668fcfb0ff)
 
 ## Description:
 
