@@ -17,4 +17,3 @@ This dataset has been referred from Kaggle: [https://www.kaggle.com/c/titanic/da
 ## Objective:
 - Understand the Dataset & cleanup.
 - Build a strong classification model to predict whether the passenger survives or not.
-- Also fine-tune the hyperparameters & compare the evaluation metrics of various classification algorithms.
